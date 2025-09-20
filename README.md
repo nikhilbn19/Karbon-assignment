@@ -36,7 +36,9 @@ Google Analytics is integrated to track visits and interactions.
 ## Project Structure
 
 ├── index.html # Main HTML file
+
 ├── style.css # Stylesheet
+
 ├── assets/ # Images & icons
 
 
